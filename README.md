@@ -1,1 +1,1 @@
-[LIVEDEMO](#https://akinpinkman.github.io/Etch-A-Sketch/)
+[LIVEDEMO](https://akinpinkman.github.io/Etch-A-Sketch/)
