@@ -1,0 +1,32 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  margin: 0 30rem;
+  align-items: center;
+}
+
+.square {
+  background-color: white;
+  border: 1px solid black;
+}
+
+.color {
+  background-color: gray;
+  border: 1px solid black;
+}
+
+.gridContainer {
+  display: inline-grid;
+  grid-template-columns: repeat(16, 2fr);
+  grid-template-rows: repeat(16, 2fr);
+  border: 5px solid black;
+  border-radius: 5px;
+  height: 575px;
+  width: 575px;
+}
+
+.gridHolder {
+  display: grid;
+  align-content: center;
+  justify-content: center;
+}
